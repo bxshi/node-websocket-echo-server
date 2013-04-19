@@ -1,0 +1,27 @@
+{
+    "name" : "websocket-echo-server",
+    "version" : "0.1.0",
+    "author" : "carmack.shi",
+    "description" : "a example for websocket echo server",
+
+    "dependencies" : {
+        "websocket" : "*",
+        "http" : "*",
+        "cluster" : "*",
+        "mocha" : "*",
+        "should" : "*",
+        "redis" : "*",
+        "hiredis" : "*",
+        "cli-color" : "*",
+        "node-uuid" : "*",
+        "async" : "*",
+        "mongodb" : "*",
+        "cloneextend" : "*",
+        "fs" : "*",
+        "zlib" : "*",
+        "events" : "*",
+        "util" : "*"
+    },
+
+    "engines" : "0.8.x"
+}
